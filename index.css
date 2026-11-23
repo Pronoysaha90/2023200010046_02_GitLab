@@ -35,8 +35,12 @@ body {
   background-color: #1e293b;
   border: 1px solid #334155;
   border-radius: 10px;
+<<<<<<< HEAD
   padding: 32px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+=======
+  padding: 20px;
+>>>>>>> branch-2
 }
 
 .card h2 {
